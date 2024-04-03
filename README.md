@@ -2,8 +2,8 @@
 
 ## My skills
 - Java ☕
-- Python
-- Github
+- Python 🐍
+- Github 🐈‍⬛
 ## Open to ![DogeDedcelGIF](https://github.com/Stephanie5Z/Stefas-codes-book/assets/165931720/1a80348c-2b4e-41b9-baed-d0a77678ebc5)
 
 - Colab 🙌
